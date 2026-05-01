@@ -359,7 +359,7 @@ qrencode -t ANSIUTF8 "https://xxxx.ngrok-free.app/?c=mobile-test"
 
 ## Dashboard Screenshot
 
-![PhishSim Dashboard](phishingdashboard.jpg)
+![PhishSim Dashboard](phishing dashboard.jpg)
 
 *Live dashboard showing 6 captures across 2 campaigns with hourly activity chart*
 
